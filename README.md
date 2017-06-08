@@ -1,2 +1,3 @@
-# ReservationSystem
-Minoa Reservation System
+# Minoa-Reservation-System
+
+Reservation System for Minoa. 
