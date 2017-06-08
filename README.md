@@ -1,4 +1,4 @@
 # Minoa-Reservation-System
 
 Reservation System for Minoa Hotel.
-Engineered the requirements of the system with the standards of design patterns and implemented in Java.
+Engineered the requirements of the system with the standards of design patterns and implemented in Java with MS-Access containing the databases.
